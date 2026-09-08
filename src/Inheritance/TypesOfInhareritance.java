@@ -33,7 +33,7 @@ class Marketingmanager extends Employee{
     }
 
     void createMarketingStrategy(){
-        System.out.println("Market Manager creatinga Market Strategy.");
+        System.out.println("Market Manager creating Market Strategy.");
     }
 }
 interface salesManager{
