@@ -3,7 +3,7 @@ public class Learn_object {
     public static void main(String[] args) {
         // Default constructor
 
-        // Student A = new Student();
+        // src.Student A = new src.Student();
         // A.id = 34;
         // A.age = 16;
         // A.name = "Bhavesh";
@@ -24,8 +24,8 @@ public class Learn_object {
         // System.out.println(A.age);
         // System.out.println(A.name);
         // System.out.println(A.noOfSubjects);
-        // Student B = new Student(2,13,"raju", 4);
-        // Student C = new Student(3,18,"vikas", 5);
+        // src.Student B = new src.Student(2,13,"raju", 4);
+        // src.Student C = new src.Student(3,18,"vikas", 5);
         // System.out.println(B.name);
         // System.out.println(B.age);
         // System.out.println(C.name);
@@ -36,7 +36,7 @@ public class Learn_object {
 
         // copy constructor
 
-        // Student B = new Student(A);
+        // src.Student B = new src.Student(A);
         // System.out.println(A.id);
         // System.out.println(A.age);
         // System.out.println(A.name);

@@ -1,4 +1,4 @@
-    public class Student {
+public class Student {
     //Attributes
     public int id; 
     public int age;
@@ -7,7 +7,7 @@
 
     //Default ctor -> Attr. garbage
     public Student(){
-        System.out.println("Student default constructor called...");
+        System.out.println("src.Student default constructor called...");
     }
 
     // Parameterized constructor 
