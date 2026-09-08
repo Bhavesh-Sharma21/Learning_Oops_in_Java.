@@ -136,7 +136,7 @@ public class TypesOfInhareritance {
         dev.show();
 
         //Multiple Inheritance
-        Techlead techLead = new Techlead("Yash Kumar Pal", 202,"Scrap2Cash",3);
+        Techlead techLead = new Techlead("Aayush sharma ", 202,"Scrap2Cash",3);
         techLead.displayInfo();
 
         //Multi-Level Inheritance
@@ -145,7 +145,7 @@ public class TypesOfInhareritance {
         hrdirector.manageHRDep();
 
         //Hierarchical Inheritance
-        CEO ceo = new CEO("Atul Singh", 001);
+        CEO ceo = new CEO("Sundar Pichai", 001);
         ceo.LeadCompany();
 
 
