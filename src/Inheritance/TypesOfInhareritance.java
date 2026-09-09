@@ -145,7 +145,7 @@ public class TypesOfInhareritance {
         hrdirector.manageHRDep();
 
         //Hierarchical Inheritance
-        CEO ceo = new CEO("Sundar Pichai", 001);
+        CEO ceo = new CEO("Sundar Pichai  ", 001);
         ceo.LeadCompany();
 
 
